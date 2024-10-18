@@ -1,0 +1,42 @@
+/* src/Dashboard.css */
+
+.card {
+    padding: 16px;
+    margin: 16px 0;
+    text-align: center;
+    
+  }
+  
+  .card .MuiTypography-h6 {
+    color: #777;
+  }
+  
+  .card .MuiTypography-h4 {
+    color: #000;
+  }
+  
+  .social-card {
+   
+    padding: 16px;
+  }
+  
+  .calendar {
+    width: 90%;
+  }
+  
+  .notice-board, .recent-activities {
+    text-align: left;
+    padding: 8px;
+    font-size: 14px;
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .notice-item, .activity-item {
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
