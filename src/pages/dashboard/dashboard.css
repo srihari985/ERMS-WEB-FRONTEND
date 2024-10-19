@@ -1,0 +1,88 @@
+.tableHeader {
+  background-color: rgb(36, 137, 129);
+}
+
+.tableRow {
+  border-bottom: 0.1rem solid black;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.tableCell {
+  border: 0.1rem solid black;
+}
+
+
+
+.tableNameFont {
+  text-align: center;
+  color: black;
+  font-size: 16px;
+}
+.nameOfHeader {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+/* dashboard.css */
+
+.dialog-avatar {
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  height: 100px;
+  size: 0cap;
+}
+
+.dialog-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px;
+  background-color: azure;
+}
+
+.dialog-content .MuiTypography-root {
+  margin: 10px 0;
+}
+
+.dialog-upload {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dialog-upload input[type="file"] {
+  margin-top: 10px;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.dialog-actions .MuiButton-root {
+  margin-left: 10px;
+}
+
+.table-cell {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+.table-cell-avatar {
+  text-align: right;
+}
+
+.table-cell-action {
+  text-align: center;
+}
+
+.dialog-text-field {
+  margin-bottom: 10px;
+}
