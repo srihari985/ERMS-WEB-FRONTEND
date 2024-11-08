@@ -358,7 +358,7 @@ const SignIn = () => {
             variant="h6"
             style={{
               color: "white",
-              fontWeight: "500",
+              // fontWeight: "500",
               fontSize: "1.2rem",
               textAlign: "center",
               marginTop: "10px",
