@@ -354,8 +354,8 @@ const PetrolAllowance = () => {
           <CardContent>
             <div
               style={{
-                display: "flex.",
-                alignItems: "center",
+                display: "fl",
+                alignItems: "enter",
                 marginBottom: "40px",
               }}
             >
