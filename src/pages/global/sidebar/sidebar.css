@@ -1,0 +1,7 @@
+.sidebar-container {
+    touch-action: none; /* Disable touch gestures */
+    -webkit-user-select: none; /* Prevent text selection */
+    -moz-user-select: none; /* Prevent text selection */
+    -ms-user-select: none; /* Prevent text selection */
+    user-select: none; /* Prevent text selection */
+  } 
