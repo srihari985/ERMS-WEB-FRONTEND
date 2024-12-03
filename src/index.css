@@ -1,0 +1,36 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app,
+.content {
+  font-family: "Source Sance Pro", sans-serif;
+ 
+}
+.backImg {
+  background-image: url("https://c8.alamy.com/comp/P3730E/organization-management-word-cloud-concept-on-black-background-P3730E.jpg");
+  background-size: cover;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+.avater-image {
+  margin-top: 20px;
+}
+.signUpClass {
+  margin-top: 100px;
+}
+.createButton {
+  color: aliceblue;
+  text-align: center;
+}
+
+
+
+
+
